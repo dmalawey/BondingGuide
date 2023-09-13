@@ -1,6 +1,8 @@
 # BondingGuide
 Bonding Materials for Mechatronics Projects.
 
+### [View as a Web Page](https://qr.page/g/3VElbJNvt6w)
+
 # Bonding Spreadsheet
 As I began making this spreadsheet, I asked: what value am I adding that I could not find in other online resources?  Why did I have access to these other guides for so long, with so little success? Instead of creating another copy of a generic gluing table, this guide is intended to cover the following points:
 
